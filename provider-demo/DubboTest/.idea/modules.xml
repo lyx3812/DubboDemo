@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiTest/ApiTest.iml" filepath="$PROJECT_DIR$/ApiTest/ApiTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsumerTest/ConsumerTest.iml" filepath="$PROJECT_DIR$/ConsumerTest/ConsumerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DubboTest.iml" filepath="$PROJECT_DIR$/DubboTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProviderTest/ProviderTest.iml" filepath="$PROJECT_DIR$/ProviderTest/ProviderTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../spring/demo/demo.iml" filepath="$PROJECT_DIR$/../../../spring/demo/demo.iml" />
+    </modules>
+  </component>
+</project>
